@@ -1,0 +1,7 @@
+{
+  "name": "Profin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
